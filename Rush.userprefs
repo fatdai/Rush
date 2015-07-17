@@ -1,9 +1,11 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Home.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/BatchRename.cs">
     <Files>
-      <File FileName="Assets/scripts/Home.cs" Line="18" Column="3" />
-      <File FileName="Assets/scripts/Resolution.cs" Line="11" Column="36" />
+      <File FileName="Assets/scripts/ScreenAdapter.cs" Line="18" Column="4" />
+      <File FileName="Assets/scripts/ButtonSprite.cs" Line="42" Column="32" />
+      <File FileName="Assets/scripts/TiledSprite.cs" Line="24" Column="14" />
+      <File FileName="Assets/Editor/BatchRename.cs" Line="5" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
