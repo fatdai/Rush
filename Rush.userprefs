@@ -1,11 +1,10 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/BatchRename.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/FlipBookAnimation.cs">
     <Files>
-      <File FileName="Assets/scripts/ScreenAdapter.cs" Line="18" Column="4" />
-      <File FileName="Assets/scripts/ButtonSprite.cs" Line="42" Column="32" />
-      <File FileName="Assets/scripts/TiledSprite.cs" Line="24" Column="14" />
-      <File FileName="Assets/Editor/BatchRename.cs" Line="5" Column="44" />
+      <File FileName="Assets/Editor/UVEditor.cs" Line="84" Column="35" />
+      <File FileName="Assets/scripts/FlipBookAnimation.cs" Line="83" Column="28" />
+      <File FileName="Assets/scripts/ScreenAdapter.cs" Line="17" Column="63" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

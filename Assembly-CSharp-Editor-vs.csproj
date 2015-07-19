@@ -47,6 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Editor\BatchRename.cs" />
+     <Compile Include="Assets\Editor\CreateQuad.cs" />
+     <Compile Include="Assets\Editor\TexturePacker.cs" />
+     <Compile Include="Assets\Editor\UVEditor.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>

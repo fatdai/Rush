@@ -46,7 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\scripts\AtlasData.cs" />
      <Compile Include="Assets\scripts\ButtonSprite.cs" />
+     <Compile Include="Assets\scripts\FlipBookAnimation.cs" />
      <Compile Include="Assets\scripts\ScreenAdapter.cs" />
      <Compile Include="Assets\scripts\TiledSprite.cs" />
  <Reference Include="UnityEngine.Analytics">
